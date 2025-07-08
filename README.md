@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\satya\OneDrive\Desktop\bannar.png" alt="Satya Anand Banner" width="100%"/>
+  <img src="bannar.png" alt="Satya Anand Banner" width="100%"/>
 </p>
 
 # 👋 Hi there, I'm Satya Anand
